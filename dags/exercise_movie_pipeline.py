@@ -43,7 +43,7 @@ from pendulum import datetime, duration
 # --------------- #
 
 OMDB_API_URL = "https://www.omdbapi.com/"
-OMDB_API_KEY = "TU_API_KEY"  # ⚠️ Reemplaza con tu API key gratuita
+OMDB_API_KEY = "fd2f60ab"  # ⚠️ Reemplaza con tu API key gratuita
 HTTP_TIMEOUT_SECONDS = 15
 
 # Lista de películas a buscar
